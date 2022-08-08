@@ -1,0 +1,8 @@
+Merci d'avoir téléchargé ce logiciel.
+
+Il a été créée dans le but de me permettre d'assimiler C# et WPF, c'est donc un logiciel d'étude de la programmation logiciel.
+
+Il a pour fonctionnalité principale d'analyser les fichiers temporaires winTemp et appTemp, il n'est pas vraiment complet et n'est pas très optimisé, c'est juste un petit truc de découvert ;-).
+
+Cordialement, votre serviteur,
+Jean ROBERT.
